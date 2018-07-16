@@ -19,11 +19,14 @@ Work
 
 Project
 2012 - HTML5 (학술제)
+
 2013 - SMINISHING (학술제)
+
 2013 reversing (Mnet 1분 무료듣기 crack)
 
-2017
-
+2017 - 취약점 분석 (건양대학교 교내)
+2017 - 웹사이트 취약점 분석(xx)
+2018 - 
 
 
 
